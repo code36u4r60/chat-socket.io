@@ -66,7 +66,7 @@ yarn start
 You should get something like this
 
 <div align="center">
-    <img width="900px" alt="Ignite" src="captura-server.png" />
+    <img width="900px" alt="Ignite" src="Captura-server.png" />
 </div>
 
 ### Client
@@ -84,8 +84,8 @@ yarn start
 You should get something like this
 
 <div align="center">
-    <img width="900px" alt="Ignite" src="captura-client.png" />
-    <img width="350px" alt="Ignite" src="captura-chat.png" />
+    <img width="900px" alt="Ignite" src="Captura-client.png" />
+    <img width="350px" alt="Ignite" src="Captura-chat.png" />
 </div>
 
 ## :memo: Licence
