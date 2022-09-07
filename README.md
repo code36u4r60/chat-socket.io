@@ -1,7 +1,7 @@
 # Simple Real-Time Chat with socket.io 
 
 <div align="center">
-    <img width="900px" alt="Ignite" src="captura.png" />
+    <img width="900px" alt="Ignite" src=".github/captura.png" />
 </div>
 
 
